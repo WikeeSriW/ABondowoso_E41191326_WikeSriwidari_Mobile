@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TugasLayout</string>
+    <string name="_1">1</string>
+    <string name="linear_layout">LinearLayout</string>
+    <string name="_2">2</string>
+    <string name="relative_layout">RelativeLayout</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="frame_layout">FrameLayout</string>
+    <string name="_5">5</string>
+    <string name="table_layout">TabelLayout</string>
+    <string name="_6">6</string>
+    <string name="material_design">MaterialDesign</string>
+    <string name="_7">7</string>
+    <string name="scroll_view">ScrollView</string>
+    <string name="_8">8</string>
+    <string name="scroll_view_horizontal">ScrollViewHorizontal</string>
+</resources>
